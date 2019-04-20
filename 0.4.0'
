@@ -1,0 +1,10 @@
+On branch mySQL_setup
+Changes not staged for commit:
+	modified:   Gemfile
+	modified:   Gemfile.lock
+	modified:   config/database.yml
+
+Untracked files:
+	"0.4.0'\n"
+
+no changes added to commit
