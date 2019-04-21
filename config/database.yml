@@ -27,5 +27,6 @@ test:
 
 production:
   adapter: mysql2
-  username: 'voluntron_prod_user'
+  username: 'voluntron_user'
   database: production_voluntron
+#QWYHT%jhdh78*&kndfKN
