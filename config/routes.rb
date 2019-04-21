@@ -1,4 +1,10 @@
 Rails.application.routes.draw do
+  root 'commons#Landing'
+
+  get 'commons/AboutUs', to: 'commons#AboutUs'
+
+  get 'commons/ContactUs', to: 'commons#ContactUs'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
