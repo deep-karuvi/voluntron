@@ -37,6 +37,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'mysql2', '~> 0.4.0'
 gem 'bootstrap'
 gem 'pg', group: :production
+gem 'rails_12factor', group: :production
 ################################################################################
 
 group :development, :test do
