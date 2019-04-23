@@ -26,7 +26,8 @@ test:
   password: 'uat Pass'
 
 production:
-  adapter: mysql2
-  username: 'voluntron_user'
-  database: production_voluntron
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+#  database: production_voluntron
 #QWYHT%jhdh78*&kndfKN
